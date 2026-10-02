@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Concept ground floor plan</title>
+  <desc id="desc">A CAD-style architectural floor plan with rooms, doors, windows, staircase, and dimension lines.</desc>
+  <rect width="900" height="620" fill="#fafdff"/>
+  <g fill="none" stroke="#2f5067" stroke-width="2">
+    <rect x="92" y="92" width="620" height="420"/>
+    <path d="M92 312h178v200M270 92v120h220V92M490 212h222M270 312h222M492 212v300M492 392h220M620 392v120M92 410h178"/>
+    <path d="M270 140h-42M318 92v42M550 212v-44M712 280h-42M492 442h-44M620 430h42" stroke="#76b9dc" stroke-width="8"/>
+    <path d="M92 65V42M712 65V42M92 52h620M70 92H42M70 512H42M53 92v420"/>
+    <path d="M92 75v-30M270 75v-30M492 75v-30M712 75v-30M75 92H35M75 312H35M75 410H35M75 512H35" stroke="#8db8cf"/>
+    <path d="M216 312a54 54 0 0 1 54 54M492 212a58 58 0 0 0 58 58M620 392a50 50 0 0 1 50 50" stroke="#76b9dc"/>
+    <path d="M330 350h130v130H330zM344 462h16v18M370 462h16v18M396 462h16v18M422 462h16v18" stroke="#76b9dc"/>
+    <path d="M800 92v420M785 92h30M785 512h30M800 212h-15M800 392h-15" stroke="#8db8cf"/>
+  </g>
+  <g fill="#2f5067" font-family="monospace" font-size="15" letter-spacing="1">
+    <text x="130" y="190">LIVING</text><text x="130" y="212">ROOM</text>
+    <text x="318" y="155">FOYER</text><text x="550" y="155">KITCHEN</text>
+    <text x="535" y="335">DINING</text><text x="128" y="372">BEDROOM</text>
+    <text x="535" y="455">UTILITY</text><text x="350" y="420">STAIR</text>
+    <text x="355" y="35" fill="#76b9dc">6200</text><text x="25" y="210" transform="rotate(-90 25 210)" fill="#76b9dc">4200</text>
+    <text x="805" y="310" transform="rotate(-90 805 310)" fill="#76b9dc">N ↑</text>
+  </g>
+  <g stroke="#76b9dc" stroke-width="1"><path d="M92 52l8-4v8zM712 52l-8-4v8zM53 92l-4 8h8zM53 512l-4-8h8z"/></g>
+</svg>

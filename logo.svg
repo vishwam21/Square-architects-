@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title>SQUARE ARCHITECTS mark</title>
+  <rect width="100" height="100" fill="#172837"/>
+  <rect x="8" y="8" width="84" height="84" fill="none" stroke="#f0eee7" stroke-width="3"/>
+  <path d="M25 75V25h50M25 58h33V25M42 75V42h33" fill="none" stroke="#f0eee7" stroke-width="3"/>
+  <path d="M25 75h17M75 25v17" fill="none" stroke="#d65a36" stroke-width="3"/>
+</svg>
